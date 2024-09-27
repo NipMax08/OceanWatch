@@ -13,7 +13,10 @@ Marine Debris Detection
 Oil Spills Detection
 Algae Bloom Detection
 Use Case 1: Marine Debris Detection Problem: Marine debris is a global pollution problem that poses a severe threat to marine life, navigation, and the overall health of the ocean. Traditional methods of detecting debris are labor-intensive and inefficient. Solution: By applying machine learning algorithms to analyze satellite and aerial imagery, we can automate the detection of marine debris. Our model will identify and classify debris types, allowing for quicker and more accurate clean-up operations.
+https://www.cmaquarium.org/app/uploads/2018/08/ocean-debris-underwater-1200-wide.jpg
 
 Use Case 2: Oil Spillage Detection Problem: Oil spills have devastating effects on marine ecosystems, and timely detection is crucial for mitigating damage. Current methods are often reactive rather than proactive. Solution: Machine learning models trained on images and sensor data will detect oil spills with high precision. This will enable early intervention and response, minimizing environmental damage and aiding in the cleanup process.
+https://oceanservice.noaa.gov/education/tutorial-coastal/oil-spills/os-03-skimming-oil.jpg
 
 Use Case 3: Algae Bloom Detection Problem: Algae blooms can create dead zones in water bodies, harming aquatic life and affecting water quality. Early detection is essential to manage and mitigate these blooms. Solution: Our machine learning approach will analyze satellite imagery and water quality data to detect and monitor algae blooms. By identifying bloom patterns and predicting their spread, we can help manage and prevent the adverse effects on marine ecosystems.
+https://brewerint.com/wp-content/uploads/2021/07/1_11zon.jpg
