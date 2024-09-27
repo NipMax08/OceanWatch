@@ -10,9 +10,9 @@ Utilizing satellite imagery and sensor data to train machine learning models.
 Techniques such as convolutional neural networks (CNNs) for image analysis and anomaly detection algorithms will be employed to identify and classify marine pollution incidents
 
 Usecases
-Marine Debris Detection
-Oil Spills Detection
-Algae Bloom Detection
+1) Marine Debris Detection
+2) Oil Spills Detection
+3) Algae Bloom Detection
 
 Use Case 1: Marine Debris Detection Problem: Marine debris is a global pollution problem that poses a severe threat to marine life, navigation, and the overall health of the ocean. Traditional methods of detecting debris are labor-intensive and inefficient. Solution: By applying machine learning algorithms to analyze satellite and aerial imagery, we can automate the detection of marine debris. Our model will identify and classify debris types, allowing for quicker and more accurate clean-up operations.
 ![image](https://github.com/user-attachments/assets/a21cd1b5-d5ff-4ea5-b173-71b4386ff0d1)
