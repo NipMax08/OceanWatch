@@ -1,2 +1,3 @@
-# OceanWatch-
-Projects in Machine Learning-INFO8665 Capstone Project involving three different use cases that all aim to tackle problems related to the ocean
+# OceanWatch-Use Case 1-Marine Debris Detection
+Use Case 1: Marine Debris Detection Problem: Marine debris is a global pollution problem that poses a severe threat to marine life, navigation, and the overall health of the ocean. Traditional methods of detecting debris are labor-intensive and inefficient. Solution: By applying machine learning algorithms to analyze satellite and aerial imagery, we can automate the detection of marine debris. Our model will identify and classify debris types, allowing for quicker and more accurate clean-up operations.
+![image](https://github.com/user-attachments/assets/a21cd1b5-d5ff-4ea5-b173-71b4386ff0d1)
