@@ -7,5 +7,9 @@ Labeling?: https://impact.earthdata.nasa.gov/labeler/
 Resource: https://github.com/developmentseed/label-maker
 
 #### 2) Detection of Marine Debris with Sentinel-2 
+#### Potential Datasets
  
 GitHub Link: https://github.com/MarcCoru/marinedebrisdetector
+https://github.com/ESA-PhiLab/floatingobjects
+https://github.com/alina2204/contrastive_SSL_ship_detection
+https://plp.aegean.gr/
