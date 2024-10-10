@@ -21,5 +21,5 @@ GitHub Link:
 #### 3) Marine Debris Archive (MARIDA)
 Marine Debris Archive (MARIDA) is a marine debris-oriented dataset on Sentinel-2 satellite images. It also includes various sea features that co-exist. MARIDA is primarily focused on the weakly supervised pixel-level semantic segmentation task. This repository hosts the basic tools for the extraction of spectral signatures as well as the code for the reproduction of the baseline models.
 
-Github: https://github.com/marine-debris/marine-debris.github.io
+Github: https://github.com/marine-debris/marine-debris.github.io 
 ###### Major focus for the project
