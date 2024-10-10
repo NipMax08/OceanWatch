@@ -9,7 +9,8 @@ Resource: https://github.com/developmentseed/label-maker
 #### 2) Detection of Marine Debris with Sentinel-2 
 #### Potential Datasets
  
-GitHub Link: https://github.com/MarcCoru/marinedebrisdetector
-https://github.com/ESA-PhiLab/floatingobjects
-https://github.com/alina2204/contrastive_SSL_ship_detection
-https://plp.aegean.gr/
+GitHub Link: 
+1) https://github.com/MarcCoru/marinedebrisdetector
+2) https://github.com/ESA-PhiLab/floatingobjects
+3) https://github.com/alina2204/contrastive_SSL_ship_detection
+4) https://plp.aegean.gr/
