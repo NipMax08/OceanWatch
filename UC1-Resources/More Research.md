@@ -2,8 +2,11 @@
 
 
 GitHub Link: https://github.com/NASA-IMPACT/marine_debris_ML
+
 Dataset Link: https://www.planet.com/products/satellite-imagery-of-earth/
+
 Labeling?: https://impact.earthdata.nasa.gov/labeler/
+
 Resource: https://github.com/developmentseed/label-maker
 
 #### 2) Detection of Marine Debris with Sentinel-2 
